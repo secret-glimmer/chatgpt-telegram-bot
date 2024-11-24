@@ -26,7 +26,7 @@ Let's get this bot up and running in no time! Here's what you need to do:
 Clone the repository:
 
 ```bash
-git clone https://github.com/inikki/ts-chatgpt-telegram-bot.git
+git clone https://github.com/secret-glimmer/ts-chatgpt-telegram-bot.git
 cd ts-chatgpt-telegram-bot
 npm install
 ```
